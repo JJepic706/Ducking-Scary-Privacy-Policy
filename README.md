@@ -22,4 +22,20 @@ Our app uses Limited Ads, which prioritises user saftey over company profits. A 
 
 That being said, Google Admob may collect the data types above by 'default' for the SDK to work properly. This will be saved locally and will be removed by the SDK after use. 
 
+#Use of Google's "Google PlayGames" service:
 
+Our app makes use of Google's "Google PlayGames" services, If you choose to sign in to the app. This allows for achievements to sync to the service, adding to your PlayGames Profile.
+
+By signing in you agree to: 
+ - Google play games username (As controlled by your privacy settings).
+ - Google account email (Not viewable to us or in the app in any way).
+
+No data is collected or stored by us in any way. These things are only used by Google's service to sync/add achievements to your account. 
+
+For more info please see Google's PlayGames User agreement. 
+
+#Links/Developer Contact:
+ - For Questions/Inquireies, Contact us at one of these emails = mainsoftworks@gmail.com or devjoshu13@gmail.com
+ - For feedback on my app, Email me or do the following form = https://forms.gle/SZm8RioS8V7jHo8Y8
+ - Google Play store page = https://play.google.com/store/apps/details?id=com.main.quackquack&gl=GB
+ - If you like this app and want to support me, consider donating here = https://www.buymeacoffee.com/devjoshu13
