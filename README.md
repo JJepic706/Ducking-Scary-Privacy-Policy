@@ -36,6 +36,6 @@ For more info please see Google's PlayGames User agreement.
 
 # Links/Developer Contact:
  - For Questions/Inquireies, Contact us at one of these emails = mainsoftworks@gmail.com or devjoshu13@gmail.com
- - For feedback on my app, Email me or do the following form = https://forms.gle/SZm8RioS8V7jHo8Y8
- - Google Play store page = https://play.google.com/store/apps/details?id=com.main.quackquack&gl=GB
+ - For feedback on my app, Email me or do the following form = *coming soon*
+ - Google Play store page = *coming soon*
  - If you like this app and want to support me, consider donating here = https://www.buymeacoffee.com/devjoshu13
