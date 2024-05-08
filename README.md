@@ -1,5 +1,5 @@
-# Ducking-Scary-Privacy-Policy
-Official privacy policy for the hit MainSoftworks game, Ducking Scary!
+# Ducking Scary - Mopbile Edition Privacy-Policy
+Official privacy policy for the hit MainSoftworks game, Ducking Scary - Mobile Edition!
 
 We, at MainSoftworks, do not collect, view or save any personal data. 
 
