@@ -9,7 +9,7 @@ It's a simple clicker game that **DOES NOT** collect any data.
 It does however use some personal data for some features. 
 These things are disclosed below, any questions, please contact us (see details at bottom).
 
-###Google AdMob Service:
+### Google AdMob Service:
 
 We use the Google AdMob service to supply ads to the mobile edition of the game, this is to compensate for the fact its free on mobile (compared to paid on PC which also has extra content advertisement free!) and we, at MainSoftworks, do not collect, view or save any personal data. However, by using Ducking Scary - Mobile Edition, you allow our advert client, Google AdMob, access to the following by default (Quoted from admob website [as seen here](https://developers.google.com/admob/android/privacy/play-data-disclosure#data_collected_and_shared_automatically)): 
 
