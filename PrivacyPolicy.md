@@ -6,9 +6,13 @@ Official privacy policy for the hit MainSoftworks game, Ducking Scary - Mobile E
 ## Into:
 
 Ducking Scary - Mobile Edition is a game deved by Mainsoftworks.
+
 It's a port of our hit PC game "Ducking Scary" from PC to mobile
+
 This game **Does Not** collect any data
+
 It does however use some personal data for some features. 
+
 These things are disclosed below, any questions, please contact us (see details at bottom).
 
 ## Google AdMob Service:
